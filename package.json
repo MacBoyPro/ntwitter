@@ -3,15 +3,15 @@
   "version": "0.5.0",
   "description": "Asynchronous Twitter REST/stream/search client API for node.js.", 
   "keywords": ["twitter","streaming","oauth"], 
-  "homepage": "https://github.com/AvianFlu/ntwitter", 
-  "author": "jdub, changes by AvianFlu", 
+  "homepage": "https://github.com/MacBoyPro/ntwitter",
+  "author": "jdub, changes by MacBoyPro",
   "licenses": { 
     "type": "MIT", 
-    "url": "http://github.com/AvianFlu/ntwitter/raw/master/LICENSE"
+    "url": "http://github.com/MacBoyPro/ntwitter/raw/master/LICENSE"
   },
   "repository": { 
     "type": "git", 
-    "url": "http://github.com/AvianFlu/ntwitter.git"
+    "url": "https://github.com/MacBoyPro/ntwitter.git"
   }, 
   "dependencies": { 
     "oauth": ">=0.8.4", 
